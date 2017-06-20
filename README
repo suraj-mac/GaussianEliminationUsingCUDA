@@ -1,0 +1,11 @@
+README
+
+Multithreaded implementation of Gauss Elimination code using CUDA libraries.
+
+to run build using MAKE file and execute by : ./gauss_eleminate
+
+File list:
+gauss_eliminate_kernel.cu file contains the GPU device functions
+gauss_eliminate_gold.cpp contains the single threaded implementatio
+gauss_eliminate.cu contains the main driver function.
+
